@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @Emilio-portal
 - 👀 I’m a computer science major at UC Santa Cruz!
 - 🌱 I’m currently learning Python and C++.
-- 💞️ I’m also looking to collaborate on projects to build up my portfolio.
+- ⚙ I’m also looking to collaborate on projects to build up my portfolio.
 - 📫 Reach me through email  at emilio.portal.b@gmail.com
 
 <!---
