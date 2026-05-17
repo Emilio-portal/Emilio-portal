@@ -1,4 +1,4 @@
-Hey! I’m Emilio Portal ʕ•ᴥ•ʔ Here is some more info about me!
+Hey, I’m Emilio Portal! ʕ•ᴥ•ʔ Here is some more info about me -
 
 * I am a computer science major studying at UC Santa Cruz! 💻 
 * I am experienced at building software using various programming languages, frameworks, and agentic workflows. ⚙️
